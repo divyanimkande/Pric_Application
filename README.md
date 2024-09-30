@@ -104,3 +104,4 @@ Body: { "name": "Updated Name", "email": "updated@example.com" }
 ### Delete User (DELETE):
 
 DELETE https://userdashboardcurd-35d3e-default-rtdb.firebaseio.com/users/{id}.json
+Thank You
